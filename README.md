@@ -1,2 +1,2 @@
 # cse360_helloworld
-just a little tutorial
+just a little example for class
